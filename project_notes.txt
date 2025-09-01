@@ -1,0 +1,1 @@
+print('Reading soil moisture sensor data')
